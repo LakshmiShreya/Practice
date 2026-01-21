@@ -1,1 +1,1 @@
-print("Git practice successfull")
+print("Git practice successful")
